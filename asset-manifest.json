@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/FoodAppReact.git/static/css/main.5a3d6a6c.chunk.css",
-    "main.js": "/FoodAppReact.git/static/js/main.8713925c.chunk.js",
-    "main.js.map": "/FoodAppReact.git/static/js/main.8713925c.chunk.js.map",
-    "runtime-main.js": "/FoodAppReact.git/static/js/runtime-main.c2fa4cd8.js",
-    "runtime-main.js.map": "/FoodAppReact.git/static/js/runtime-main.c2fa4cd8.js.map",
-    "static/js/2.999d88f1.chunk.js": "/FoodAppReact.git/static/js/2.999d88f1.chunk.js",
-    "static/js/2.999d88f1.chunk.js.map": "/FoodAppReact.git/static/js/2.999d88f1.chunk.js.map",
-    "index.html": "/FoodAppReact.git/index.html",
-    "precache-manifest.00eee5507e96be4b2238ee8968f4884e.js": "/FoodAppReact.git/precache-manifest.00eee5507e96be4b2238ee8968f4884e.js",
-    "service-worker.js": "/FoodAppReact.git/service-worker.js",
-    "static/css/main.5a3d6a6c.chunk.css.map": "/FoodAppReact.git/static/css/main.5a3d6a6c.chunk.css.map",
-    "static/js/2.999d88f1.chunk.js.LICENSE.txt": "/FoodAppReact.git/static/js/2.999d88f1.chunk.js.LICENSE.txt"
+    "main.css": "/FoodAppReact/static/css/main.5a3d6a6c.chunk.css",
+    "main.js": "/FoodAppReact/static/js/main.5c4a219a.chunk.js",
+    "main.js.map": "/FoodAppReact/static/js/main.5c4a219a.chunk.js.map",
+    "runtime-main.js": "/FoodAppReact/static/js/runtime-main.5c0ae18f.js",
+    "runtime-main.js.map": "/FoodAppReact/static/js/runtime-main.5c0ae18f.js.map",
+    "static/js/2.999d88f1.chunk.js": "/FoodAppReact/static/js/2.999d88f1.chunk.js",
+    "static/js/2.999d88f1.chunk.js.map": "/FoodAppReact/static/js/2.999d88f1.chunk.js.map",
+    "index.html": "/FoodAppReact/index.html",
+    "precache-manifest.4f5e04cb8ddfe872ceac7de53450d1fb.js": "/FoodAppReact/precache-manifest.4f5e04cb8ddfe872ceac7de53450d1fb.js",
+    "service-worker.js": "/FoodAppReact/service-worker.js",
+    "static/css/main.5a3d6a6c.chunk.css.map": "/FoodAppReact/static/css/main.5a3d6a6c.chunk.css.map",
+    "static/js/2.999d88f1.chunk.js.LICENSE.txt": "/FoodAppReact/static/js/2.999d88f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2fa4cd8.js",
+    "static/js/runtime-main.5c0ae18f.js",
     "static/js/2.999d88f1.chunk.js",
     "static/css/main.5a3d6a6c.chunk.css",
-    "static/js/main.8713925c.chunk.js"
+    "static/js/main.5c4a219a.chunk.js"
   ]
 }

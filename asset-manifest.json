@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FoodCartApp.git/static/css/main.5a3d6a6c.chunk.css",
+    "main.js": "/FoodCartApp.git/static/js/main.ef5b2062.chunk.js",
+    "main.js.map": "/FoodCartApp.git/static/js/main.ef5b2062.chunk.js.map",
+    "runtime-main.js": "/FoodCartApp.git/static/js/runtime-main.58b68f27.js",
+    "runtime-main.js.map": "/FoodCartApp.git/static/js/runtime-main.58b68f27.js.map",
+    "static/js/2.999d88f1.chunk.js": "/FoodCartApp.git/static/js/2.999d88f1.chunk.js",
+    "static/js/2.999d88f1.chunk.js.map": "/FoodCartApp.git/static/js/2.999d88f1.chunk.js.map",
+    "index.html": "/FoodCartApp.git/index.html",
+    "precache-manifest.4612b55702a86c698ef859c15d2a5216.js": "/FoodCartApp.git/precache-manifest.4612b55702a86c698ef859c15d2a5216.js",
+    "service-worker.js": "/FoodCartApp.git/service-worker.js",
+    "static/css/main.5a3d6a6c.chunk.css.map": "/FoodCartApp.git/static/css/main.5a3d6a6c.chunk.css.map",
+    "static/js/2.999d88f1.chunk.js.LICENSE.txt": "/FoodCartApp.git/static/js/2.999d88f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58b68f27.js",
+    "static/js/2.999d88f1.chunk.js",
+    "static/css/main.5a3d6a6c.chunk.css",
+    "static/js/main.ef5b2062.chunk.js"
+  ]
+}

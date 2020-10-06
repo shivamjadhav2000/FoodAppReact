@@ -1,0 +1,18 @@
+.navbarContainer{
+    margin:2%;
+    padding:10px;
+    text-align: initial;
+    padding:2%;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+
+}
+.logo{
+    padding:10px;
+    
+    background-color: rgba(255, 255, 255, 0);
+    
+    font-weight: 700;
+    display:inline;
+    font-size: 30px;
+    
+}

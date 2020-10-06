@@ -1,0 +1,78 @@
+.FoodItemsContainer{
+    display:grid;
+    grid-template-columns: 30% 30% 30%;
+    padding-left:10%;
+    margin-bottom: 8%;
+    
+}
+.Btn{
+    width:40px;
+    height:40px;
+    margin:10px;
+     border-radius: 50%;
+    font-size: larger;
+    color:rgb(255, 255, 255);
+    box-shadow: none;
+    background-color: rgba(17, 34, 50, 0.959);
+  
+
+}
+.buttonContainer{
+    margin-bottom:5%;
+}
+.FoodItem{
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+    border-radius: 0.375rem;
+    
+  
+    margin:5%;
+    margin-top:2%;
+ 
+   
+    padding-bottom:5%;
+}
+.Image{
+    margin: 0px;
+    min-width: 0px;
+    max-width: 100%;
+   
+    object-fit: cover;
+    border-top-right-radius: 0.25rem;
+    border-top-left-radius: 0.25rem;
+    
+    width: 100%;
+    height: 140px;
+}
+@media screen and (max-width:1024px){
+    .FoodItemsContainer{
+        display:grid;
+        grid-template-columns: 50% 50%;
+      
+        padding:15%;
+        padding-left:18%;
+        padding-top:5%;
+        
+    }
+    
+    
+}
+
+@media screen and (max-width:700px){
+    .FoodItemsContainer{
+        display:grid;
+        grid-template-columns: 100%;
+      
+        padding:5%;
+        padding-top:5%;
+        
+    }
+    .FoodItem{
+        margin:0;
+        margin-top:2%;
+        margin-bottom:2%;
+    }
+    
+    
+}
+

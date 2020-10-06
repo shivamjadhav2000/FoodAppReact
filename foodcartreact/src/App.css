@@ -1,0 +1,153 @@
+.App {
+  text-align: center;
+  padding-bottom:5%;
+  
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.hideContainer{
+  display:none
+}
+.Back{
+  font-size:large;
+  width:200px;
+  height:50px;
+  margin:10px;
+  color:rgb(0, 0, 0);
+  box-shadow:0 5px 5px rgba(0,0,0,.5);
+  border-radius: 5px;
+  outline:none;
+}
+.Next{
+    font-size:large;
+    border:none;
+    width:200px;
+    height:50px;
+    margin:10px;
+    background-image: linear-gradient(45deg,rgb(39, 39, 39),rgba(0, 0, 0, 0.836),rgb(39, 39, 39));
+    color:white;
+    box-shadow:0 5px 5px rgba(0,0,0,.5);
+    border-radius: 5px;
+    outline:none;
+    
+  
+}
+.Submit{font-size: medium;
+  font-weight: bold;
+  border:none;
+  width:200px;
+  height:50px;
+  margin:10px;
+  margin-top:35%;
+  background-color: rgba(28, 29, 28, 0.829);
+  color:white;
+  box-shadow:0 5px 5px rgba(0,0,0,.5);
+  border-radius: 5px;
+  outline:none;
+}
+.Checkout{
+  font-size: medium;
+  font-weight: bold;
+  border:none;
+  width:200px;
+  height:50px;
+  background-color:  rgba(191, 38, 211, 0.877);
+  color:white;
+  box-shadow:0 5px 5px rgba(0,0,0,.5);
+  border-radius: 5px;
+  outline:none;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.FoodSummary{
+  padding:5%;
+  padding-top:10px;
+  box-shadow:0 6px 15px rgba(26, 25, 25, 0.452);
+  border-radius: 2px 2px 15px 15px;
+  border:0.5px solid rgba(211, 209, 209, 0.918);
+  margin-top:5%;
+  margin-left: 15%;
+  margin-right:15%;
+  display:grid;
+  grid-template-columns: 50% 50%;
+  text-align: left;
+  background-color: white;
+
+}
+
+.summaryItem{
+  display:grid;
+  grid-template-columns: 70% 30%;
+ 
+  margin-right:25px;
+  background-color:rgba(129, 129, 129, 0.24);
+  margin-bottom:5px;
+}
+
+@media screen and (max-width:700px){
+  .FoodSummary{
+    display:grid;
+  grid-template-columns: 100%;
+  }
+}
+
+.highlight1{
+  box-sizing: border-box;
+  margin: 0px 0px 16px;
+  min-width: 0px;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 64px;
+  text-align: center;
+}
+.highlight2{
+  box-sizing: border-box;
+  margin: 0px 0px 32px;
+  min-width: 0px;
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  color: rgb(17, 34, 50);
+}
+.questionmark{
+  display:inline;
+  color:white;
+  box-sizing: border-box;
+  margin: 0px 4px;
+  min-width: 0px;
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border-radius: 9999px;
+  -webkit-box-align: center;
+  align-items: center;
+  display: inline-flex;
+  text-align: center;
+  padding: 6px;
+  color: rgb(255, 255, 255);
+  max-height: 18px;
+  max-width: 22px;
+  line-height: 18px;
+  background-color: rgb(17, 34, 50);
+}

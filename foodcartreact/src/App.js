@@ -5,6 +5,7 @@ import FoodMenu from "./components/FoodMenu.js"
 import './App.css';
 import FoodItem from './components/FoodItem.js';
 import FoodSummary from './components/FoodSummary.js';
+import Footer from './components/Footer.js';
 
 class App extends React.Component{
   constructor(){
@@ -166,21 +167,25 @@ class App extends React.Component{
              })}   
             
           </div> 
-          <div> <span>
-                <button 
-                    onClick={()=>{this.handleTransition("FoodItemDisplayState")}} 
-                    className="Back">BACK
-                </button>
-                </span>
-                <span>
-                <button 
-                className="Checkout">Checkout
-                </button>
-                </span>
+          <div> 
+              <span>
+                    <button 
+                        onClick={()=>{this.handleTransition("FoodItemDisplayState")}} 
+                        className="Back">BACK
+                    </button>
+              </span>
+              <span>
+                    <button 
+                            className="Checkout">Checkout
+                    </button>
+              </span>
                 
           </div>
+          
       </div>
-            
+            <div>
+                <Footer/>
+            </div>
       
      </div>
     )

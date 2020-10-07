@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  padding-bottom:5%;
+  padding-bottom:5px;
   
 }
 
@@ -150,4 +150,40 @@
   max-width: 22px;
   line-height: 18px;
   background-color: rgb(17, 34, 50);
+}
+
+
+
+.Foot{
+  
+  background-color: rgba(223, 223, 223, 0.233);
+  margin:2%;
+  margin-top:50px;
+  border-radius:10px;
+  padding:20px;
+  font-size: larger;
+  font-weight: 250;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:rgba(0, 0, 0, 0.801);
+}
+.socialMIcons{   
+    width:90px;
+    padding:2px;
+    margin:5%;
+    border-radius:35%;  
+}
+
+.socialMIcons:hover{
+    background-color: white;
+}
+.iconsContainer{
+   display:inline-flex;
+
+}
+a{
+    color:rgba(12, 9, 197, 0.747);
+}
+.icons{
+    
+    width:100%
 }
